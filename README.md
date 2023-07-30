@@ -1,5 +1,3 @@
-# Expansión sensorial
-
 ## Descripción
 
 Parte práctica.
