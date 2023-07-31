@@ -3,4 +3,5 @@ plugins:
 - jekyll-remote-theme
 
 title: MTY 5
+logo: /assets/images/logo.png
 description: "Expansión sensorial: Percibiendo a través de la tecnología"
