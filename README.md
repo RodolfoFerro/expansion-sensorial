@@ -15,6 +15,9 @@ Con el uso de programación en Python, aprenderemos cómo podemos obtener inform
 
 ## Instructores
 
+- Sara Rodríguez
+- Rolando Ramírez
+- Rodolfo Ferro
 
 ## Programa
 
@@ -61,3 +64,13 @@ En este cuaderno continuaremos con el uso de Python para procesar imágenes y tr
 **(Viernes 4 de agosto)**
 
 Por definir.
+
+
+## Referencias
+
+
+References for beginners:
+- ["A Beautiful Question: Finding Nature's Deep Design"](https://www.amazon.com.mx/Beautiful-Question-Finding-Natures-Design/dp/0143109367/), Frank Wilczek.
+- [Curso de Programación Científica con Python](https://futurelab.mx/cdecmx/) de Clubes de Ciencia México
+- ["Python para todos"](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf), Raúl González Duque.
+- [The Python tutorial](https://docs.python.org/3/tutorial/index.html).
