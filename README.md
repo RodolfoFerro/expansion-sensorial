@@ -15,9 +15,9 @@ Con el uso de programación en Python, aprenderemos cómo podemos obtener inform
 
 ## Instructores
 
-- Sara Rodríguez
-- Rolando Ramírez
-- Rodolfo Ferro
+- Sara Rodríguez ([saralqi6285@gmail.com](mailto:saralqi6285@gmail.com))
+- Rolando Ramírez ([rolarami@gmail.com](mailto:rolarami@gmail.com))
+- Rodolfo Ferro ([rodolfoferroperez@gmail.com](mailto:rodolfoferroperez@gmail.com))
 
 ## Programa
 
