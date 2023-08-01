@@ -12,12 +12,17 @@ Conocer que existen diversos desarrollos tecnológicos (computadoras, equipos, m
 
 Con el uso de programación en Python, aprenderemos cómo podemos obtener información a través de diferentes sensores para trabajar interpretarla de diferentes formas a través de nuestros sentidos.
 
+
+## Instructores
+
+
 ## Programa
 
 ### Día 1
 **(Lunes 31 de julio)**
 
-Por definir.
+- Presentación [Expansión Sensorial - Día 1](https://docs.google.com/presentation/d/e/2PACX-1vQp0WSu_0uJF6ZbJPE9lQRh1pr2XsIV8hnbBSRaAT2zodIHngtjNKXbmqyeTnHTbGV1NAhsV4L9OjR9/pub?start=false&loop=false&delayms=3000)
+
 
 ### Día 2
 **(Martes 1 de agosto)**
@@ -33,10 +38,25 @@ Día enfocado en aprender sobre programación y tecnología, y cómo con ella po
 
 En este cuaderno aprenderás sobre qué es Python, cómo funciona y resolveremos algunos ejercicios prácticos. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación:
 
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+
+#### Notebook 2: Procesamiento de imágenes y daltonismo
+
+En este cuaderno exploraremos un poco más el uso de Python para procesar imágenes y resolveremos el problema del test de daltonismo agregando algunos puntos en una imagen de prueba. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación:
+
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+
 
 ### Día 4
 **(Jueves 3 de agosto)**
 
+#### Notebook 3: Procesamiento de imágenes e imágenes de galaxias
+
+En este cuaderno continuaremos con el uso de Python para procesar imágenes y trabajaremos en agregar canales de espectro no visible a una imágen de una galaxia. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación:
+
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+
 ### Día 5
 **(Viernes 4 de agosto)**
 
+Por definir.
