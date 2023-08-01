@@ -40,13 +40,19 @@ Día enfocado en aprender sobre programación y tecnología, y cómo con ella po
 
 #### Notebook 1: Introducción a Python
 
-En este cuaderno aprenderás sobre qué es Python, cómo funciona y resolveremos algunos ejercicios prácticos. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación:
+En este cuaderno aprenderás sobre qué es Python, cómo funciona y resolveremos algunos ejercicios prácticos. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
+
+- Presentación [Introducción a la programación con Python](https://docs.google.com/presentation/d/e/2PACX-1vRC-rhtScubGmUgGf__fMhQvr7nofTJ06YVH1b-_gavbHJUJqrrbRlqkKIsrxaYm33lbbrTGcH15YN6/pub?start=false&loop=false&delayms=3000)
+
+##### Notebook:
 
 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
 #### Notebook 2: Procesamiento de imágenes y daltonismo
 
-En este cuaderno exploraremos un poco más el uso de Python para procesar imágenes y resolveremos el problema del test de daltonismo agregando algunos puntos en una imagen de prueba. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación:
+En este cuaderno exploraremos un poco más el uso de Python para procesar imágenes y resolveremos el problema del test de daltonismo agregando algunos puntos en una imagen de prueba. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
+
+##### Notebook:
 
 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
@@ -57,6 +63,8 @@ En este cuaderno exploraremos un poco más el uso de Python para procesar imáge
 #### Notebook 3: Procesamiento de imágenes e imágenes de galaxias
 
 En este cuaderno continuaremos con el uso de Python para procesar imágenes y trabajaremos en agregar canales de espectro no visible a una imágen de una galaxia. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación:
+
+##### Notebook:
 
 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
