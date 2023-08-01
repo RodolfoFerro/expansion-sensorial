@@ -22,6 +22,7 @@ Con el uso de programación en Python, aprenderemos cómo podemos obtener inform
 **(Lunes 31 de julio)**
 
 - Presentación [Expansión Sensorial - Día 1](https://docs.google.com/presentation/d/e/2PACX-1vQp0WSu_0uJF6ZbJPE9lQRh1pr2XsIV8hnbBSRaAT2zodIHngtjNKXbmqyeTnHTbGV1NAhsV4L9OjR9/pub?start=false&loop=false&delayms=3000)
+- Video [True Facts About The Mantis Shrimp](https://www.youtube.com/watch?v=F5FEj9U-CJM)
 
 
 ### Día 2
