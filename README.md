@@ -54,7 +54,7 @@ En este cuaderno exploraremos un poco más el uso de Python para procesar imáge
 
 ##### Notebook:
 
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+<a href="https://colab.research.google.com/github/RodolfoFerro/expansion-sesorial/blob/main/notebooks/Procesamiento_de_im%C3%A1genes_y_daltonismo.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 ### Día 4
