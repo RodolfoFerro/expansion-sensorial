@@ -58,9 +58,7 @@ En este cuaderno exploraremos un poco más el uso de Python para procesar imáge
 
 #### Notebook 3: Procesamiento de imágenes e imágenes de galaxias
 
-En este cuaderno continuaremos con el uso de Python para procesar imágenes y trabajaremos en agregar canales de espectro no visible a una imágen de una galaxia. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación:
-
-##### Notebook:
+En este cuaderno continuaremos con el uso de Python para procesar imágenes y trabajaremos en agregar canales de espectro no visible a una imágen de una galaxia. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
 
 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
