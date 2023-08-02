@@ -46,7 +46,7 @@ En este cuaderno aprenderás sobre qué es Python, cómo funciona y resolveremos
 
 ##### Notebook:
 
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+<a href="https://colab.research.google.com/github/RodolfoFerro/expansion-sesorial/blob/main/notebooks/Introducci%C3%B3n_a_Python.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 #### Notebook 2: Procesamiento de imágenes y daltonismo
 
