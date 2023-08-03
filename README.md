@@ -56,6 +56,28 @@ En este cuaderno exploraremos un poco más el uso de Python para procesar imáge
 ### Día 4
 **(Jueves 3 de agosto)**
 
+#### Guante sinestésico
+
+El proyetco del guante sinestésico consiste en conectar varios dispositivos electrónicos, teniendo presente 2 componentes principales: un sensor de color y un microcontrolador. El sensor de oclor se encarga de reportar todo el tiempo al micro y el micro procesa la información para:
+
+1. Poder transformarla e integrarla a un sistema de visualización.
+2. Poder transformarla e integrarla a un sistema que nos permita integrar otros de nuestros sentidos, por ejemplo, con una tarjeta de audio para escuchar notas musicales dependiendo de qué color captemos.
+
+Algunas referencias para poder conectar el circuito son las siguientes.
+
+##### Sensor de color TCS34725
+
+- [Medir valores RGB con Arduino y sensor de color TCS34725](https://www.luisllamas.es/arduino-sensor-color-rgb-tcs34725/)
+- [Color Sensor with Arduino Uno: TCS34725 explaination, wiring and code](https://peppe8o.com/color-sensor-with-arduino-uno-tcs34725-explaination-wiring-and-code/)
+- [ESP8266 and TCS34725 Color Sensor](http://www.esp8266learning.com/esp8266-tcs34725-color-sensor.php)
+
+##### Sensor de color TCS230
+
+- [Arduino: reconocer colores con el módulo TCS230 – TCS3200](https://robots-argentina.com.ar/didactica/arduino-reconocer-colores-con-el-modulo-tcs230/)
+- [Arduino Color Sensors - TCS230 & ISL29125](https://www.youtube.com/watch?v=MwdANEcTiPY)
+
+
+
 #### Notebook 3: Procesamiento de imágenes e imágenes de galaxias
 
 En este cuaderno continuaremos con el uso de Python para procesar imágenes y trabajaremos en agregar canales de espectro no visible a una imágen de una galaxia. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
