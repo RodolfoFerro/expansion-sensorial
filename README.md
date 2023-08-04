@@ -31,7 +31,7 @@ Con el uso de programación en Python, aprenderemos cómo podemos obtener inform
 ### Día 2
 **(Martes 1 de agosto)**
 
-Por definir.
+- Experimentación química y generación de compuestos luminiscentes.
 
 ### Día 3
 **(Miércoles 2 de agosto)**
@@ -87,7 +87,11 @@ En este cuaderno continuaremos con el uso de Python para procesar imágenes y tr
 ### Día 5
 **(Viernes 4 de agosto)**
 
-Por definir.
+#### Notebook 4: Gráfica de espectros
+
+En este cuaderno exploraremos un poco el código en Python necesario para poder cargar y visualizar los espectros de nuestros compuestos desarrollados el día martes. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
+
+<a href="https://colab.research.google.com/github/RodolfoFerro/expansion-sensorial/blob/main/notebooks/Gr%C3%A1fica_de_espectro.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 ## Referencias
