@@ -52,6 +52,10 @@ En este cuaderno exploraremos un poco más el uso de Python para procesar imáge
 
 <a href="https://colab.research.google.com/github/RodolfoFerro/expansion-sesorial/blob/main/notebooks/Procesamiento_de_im%C3%A1genes_y_daltonismo.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+Tras desarrollar los contenidos del cuaderno anterior, deberías obtener una animación como esta:
+
+![Daltonismo](https://rodolfoferro.xyz/expansion-sensorial/assets/images/daltonismo.gif)
+
 
 ### Día 4
 **(Jueves 3 de agosto)**
@@ -76,6 +80,12 @@ Algunas referencias para poder conectar el circuito son las siguientes.
 - [Arduino: reconocer colores con el módulo TCS230 – TCS3200](https://robots-argentina.com.ar/didactica/arduino-reconocer-colores-con-el-modulo-tcs230/)
 - [Arduino Color Sensors - TCS230 & ISL29125](https://www.youtube.com/watch?v=MwdANEcTiPY)
 
+Tras concluir el armado del guante, deberías obtener algo como esto:
+
+<video width="960" height="540" controls>
+    <source src="https://rodolfoferro.xyz/expansion-sensorial/assets/video/VID_20230726_154651.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 
 #### Notebook 3: Procesamiento de imágenes e imágenes de galaxias
@@ -83,6 +93,10 @@ Algunas referencias para poder conectar el circuito son las siguientes.
 En este cuaderno continuaremos con el uso de Python para procesar imágenes y trabajaremos en agregar canales de espectro no visible a una imágen de una galaxia. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
 
 <a href="https://colab.research.google.com/github/RodolfoFerro/expansion-sesorial/blob/main/notebooks/Procesamiento_de_im%C3%A1genes_e_im%C3%A1genes_de_galaxias.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+Tras desarrollar los contenidos del cuaderno anterior, deberías obtener una animación como esta:
+
+![Daltonismo](https://rodolfoferro.xyz/expansion-sensorial/assets/images/pelicula_UV_IR.gif)
 
 ### Día 5
 **(Viernes 4 de agosto)**
@@ -92,6 +106,18 @@ En este cuaderno continuaremos con el uso de Python para procesar imágenes y tr
 En este cuaderno exploraremos un poco el código en Python necesario para poder cargar y visualizar los espectros de nuestros compuestos desarrollados el día martes. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
 
 <a href="https://colab.research.google.com/github/RodolfoFerro/expansion-sensorial/blob/main/notebooks/Gr%C3%A1fica_de_espectro.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+#### Lista de espectros procesados
+
+- [eq_jesus_ex_390.txt](https://rodolfoferro.xyz/expansion-sensorial/assets/espectros/eq_jesus_ex_390.txt)
+- [eq_jesus_ex_395.txt](https://rodolfoferro.xyz/expansion-sensorial/assets/espectros/eq_jesus_ex_395.txt)
+- [eq_kevin_ex_390.txt](https://rodolfoferro.xyz/expansion-sensorial/assets/espectros/eq_kevin_ex_390.txt)
+- [eq_kevin_ex_390_2.txt](https://rodolfoferro.xyz/expansion-sensorial/assets/espectros/eq_kevin_ex_390_2.txt)
+- [eq_kevin_ex_395.txt](https://rodolfoferro.xyz/expansion-sensorial/assets/espectros/eq_kevin_ex_395.txt)
+- [eq_monse_ex_350.txt](https://rodolfoferro.xyz/expansion-sensorial/assets/espectros/eq_monse_ex_350.txt)
+- [eq_monse_ex_380.txt](https://rodolfoferro.xyz/expansion-sensorial/assets/espectros/eq_monse_ex_380.txt)
+- [eq_sol_ex_350.txt](https://rodolfoferro.xyz/expansion-sensorial/assets/espectros/eq_sol_ex_350.txt)
+- [eq_sol_ex_380.txt](https://rodolfoferro.xyz/expansion-sensorial/assets/espectros/eq_sol_ex_380.txt)
 
 
 ## Referencias
