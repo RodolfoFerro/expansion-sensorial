@@ -82,11 +82,12 @@ Algunas referencias para poder conectar el circuito son las siguientes.
 
 Tras concluir el armado del guante, deberías obtener algo como esto:
 
-<video width="960" height="540" controls>
+<video width="100%" controls>
     <source src="https://rodolfoferro.xyz/expansion-sensorial/assets/video/VID_20230726_154651.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
+- [Código fuente del guante](https://rodolfoferro.xyz/expansion-sensorial/assets/guante.rar)
 
 #### Notebook 3: Procesamiento de imágenes e imágenes de galaxias
 
